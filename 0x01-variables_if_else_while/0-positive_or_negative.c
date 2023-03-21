@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main -negative or positive test
- * Return 0
+ * main - negative or positive test
+ * Return: 0 (success)
 */
 int main(void)
 {
