@@ -7,7 +7,7 @@
 int main(void)
 {
 	int n;
-	char m;
+	int m;
 
 	for (n = 48; n <= 57; n++)
 	{
