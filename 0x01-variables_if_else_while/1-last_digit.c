@@ -2,10 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main - print the last digit of a randomly genereted number
-* and whether it is greater than 5,less than 6, or 0
-* return: always 0 (success)
-*/
+ *  main - print the last digit of a randomly generete number
+ *  and whether it is greater than 5, less than 6, or 0.
+ */
 int main(void)
 {
 	int n;
