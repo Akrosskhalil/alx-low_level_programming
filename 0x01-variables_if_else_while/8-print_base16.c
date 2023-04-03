@@ -7,13 +7,13 @@
 int main(void)
 {
 	int n;
-	int m;
+	char m;
 
 	for (n = 48; n <= 57; n++)
 	{
 		putchar(n);
 	}
-	for (n = 65; m <= 70; m++)
+	for (n = 97; m <= 102; m++)
 	{
 		putchar(m);
 	}
